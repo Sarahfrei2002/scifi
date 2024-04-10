@@ -1,0 +1,15 @@
+.card {
+    margin-top: 15px;
+}
+body {
+    background-color: rgb(10, 10, 10);
+}
+h1, p, h2 {
+    color: aquamarine;
+}
+.container-fluid {
+    background-color: aquamarine;
+}
+.card-text {
+    color: black;
+}
